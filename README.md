@@ -10,18 +10,6 @@ This project demonstrates:
 
 ---
 
-## 📁 Repository Structure
-```
-ecommerce_sql_project/
-├── README.md
-├── data/
-│   └── ecommerce_transactions.csv   (Place your Kaggle CSV here)
-└── sql/
-    └── ecommerce_analysis.sql
-```
-
----
-
 ## 🚀 How to Use
 
 ### 1. Create Database
