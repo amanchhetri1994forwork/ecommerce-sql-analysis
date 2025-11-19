@@ -1,5 +1,3 @@
-# ecommerce-sql-analysis
-SQL-only project analyzing an E-Commerce Kaggle transactions dataset.
 # E‑Commerce SQL Analysis Project (Kaggle Dataset)
 
 A complete **SQL‑only** analytics project using the Kaggle dataset: **E‑Commerce Transactions Dataset**.
