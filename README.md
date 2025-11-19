@@ -34,19 +34,3 @@ sql/ecommerce_analysis.sql
 Run entire script.
 
 ---
-
-## 🔗 LinkedIn Post
-**🚀 New Project: SQL-Only E-Commerce Transactions Analysis (Kaggle Dataset)**
-
-I completed an end-to-end E-Commerce analytics project entirely using **SQL (MySQL)**.
-
-### 🔍 What I built:
-- Cleaned + transformed raw CSV using SQL staging tables
-- Engineered features like *order_month*, *total_value*, *AOV*, and *CLV*
-- Designed analytical SQL queries (top products, top customers, revenue trends)
-- Created dashboard-ready views for BI tools
-
-### 🛠 Tools Used:
-MySQL • SQL Views • Aggregations • Window Functions • Data Cleaning
-
-🔗 GitHub Repo: *your repo link here*
